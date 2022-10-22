@@ -1,3 +1,5 @@
+// Write a dart program to print all the prime numbers between 1 and 100.
+according to the following criteria :
 import'dart:io';
 void main(){
  for(int i=1;i<=100;i++){
