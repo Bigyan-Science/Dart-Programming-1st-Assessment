@@ -1,3 +1,6 @@
+// Write a program in Dart that finds simple interest. Take principal(p), time(t) and rate(r) from the user.
+// SI = (p*t*r)/100
+
 import 'dart:io';
 void main(){
   print("Enter principal amount:");
