@@ -1,3 +1,4 @@
+// Write a program in dart to print ‘Hello Sunway’ 3 times using for loop, while loop and do while loop
 void main(){
   print("Printed by for loop:");
   for (int i=0;i<3;i++){
