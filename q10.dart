@@ -1,4 +1,15 @@
-// Write a dart program to determine whether the number is a prime number or not.
+// Write a program in dart to calculate the following in a list
+// a = [1, 0, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+// ● Smallest number in a list
+// ● Largest number in a list
+// ● Print all the elements greater than 8.
+// ● Print all the elements smaller than 5.
+// ● Sum of all the elements of the list.
+// ● Print all the odd numbers inside the list.
+// ● Print all the even numbers inside the list
+// ● Print all the prime numbers inside the list.
+
+
 import 'dart:io';
 void main() {
   var a = [1, 0, 2, 3, 5, 8, 13, 21, 34, 55, 89];
