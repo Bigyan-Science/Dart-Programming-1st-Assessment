@@ -1,3 +1,4 @@
+// Define a function that returns the product and the sum of two numbers entered by the user
 import 'dart:io';
 void main(){
   print("Enter the first number.");
