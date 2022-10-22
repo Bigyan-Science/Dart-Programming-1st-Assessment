@@ -1,4 +1,4 @@
-// Write a dart program to print all the prime numbers between 1 and 100
+// Write a dart program to determine whether the number is a prime number or not.
 import 'dart:io';
 void main() {
   print("Enter the number to check if it is prime or not.");
